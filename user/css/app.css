@@ -1,0 +1,15 @@
+.navbar-brand
+{
+    color: white;
+    text-transform: capitalize;
+}
+#side_bar
+{
+    background-color: whitesmoke;
+    padding: 50px;
+    width: 300px;
+    height: 450px;
+}
+#footer{
+    color: white;
+}
