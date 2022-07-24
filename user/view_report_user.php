@@ -137,10 +137,10 @@
 			  	<div class="card">
 					<div class="card-header" style="text-align:center;">PATH LAB DETAILS</div>
 					<div class="card-body">
-                        <p>Phone No. : 7781031768</p>
-                        <p>Email : ajaykrdtg5@gmail.com</p>
-                        <p>Address : Near Hsr Layout, Bangalore</p>
-                        <p>Pincode : 530520</p>
+                        <p>Phone No. : 9798007907</p>
+                        <p>Email : agrawalshubham071@gmail.com</p>
+                        <p>Address : BIT MESRA, RANCHI</p>
+                        <p>Pincode : 835215</p>
 					</div>
 				</div><hr>
 			</div>
