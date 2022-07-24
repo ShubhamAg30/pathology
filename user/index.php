@@ -54,6 +54,9 @@
 				<!-- <li class="nav-item">
 					<a class="nav-link" href="../admin/index.php">Admin Login</a>
 				</li> -->
+				<li class="nav-item">
+					<a class="nav-link btn btn-info btn-md"style="color:white; margin:10px;" href="../admin/index.php" >Admin Login </a>
+				</li>
 				<!-- <li class="nav-item">
 					<a class="nav-link btn btn-info" style="margin:5px;color:black" href="index.php" >Login</a>
 				</li>
@@ -69,20 +72,20 @@
 	<span><marquee>This is Pathology Management System. Library opens at 8:00 AM and close at 8:00 PM</marquee></span><br><br>
 	<div class="row">
 		<div class="col-md-4" id="side_bar">
-			<h5>pathology Timing</h5>
+			<h5>Pathology Lab</h5>
 			<ul>
 				<li>Opening Timing: 8:00 AM</li>
 				<li>Closing Timing: 8:00 PM</li>
-				<li>(Sunday off)</li>
+				<li>Family's health is your real wealth.</li>
 			</ul>
 			<h5>What we provide ?</h5>
 			<ul>
-				<li>Blood Test</li>
+			<li>Blood Count Test</li>
+				<li>Metabolic Test</li>
+				<li>Liver Panel Test</li>
+				<li>Thyroid Function Test</li>
 				<li>Urine Test</li>
-				<li>malaria Test</li>
-				<li>Blood Pressure</li>
-				<li>Suger Test</li>
-				<li>Peacefull Environment</li>
+				<li>Blood Sugar Test</li>
 			</ul>
 		</div>		
 		<div class="col-md-8" id="main_content">
@@ -115,7 +118,7 @@
 							<input type="text" name="mobile_no" class="form-control" required>
 						</div>
 						
-						<button type="submit" name="login" class="btn btn-outline-info btn-block">View Report</button>
+						<button type="submit" name="login" class="btn btn-outline-info btn-block">Check Report</button>
 			</form>
 					</div>
 				</div>
