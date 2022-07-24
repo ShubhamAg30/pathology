@@ -86,7 +86,7 @@
 			</ul>
 		</div>		
 		<div class="col-md-8" id="main_content">
-			<center><h3>User Login Form</h3></center>
+			<center><h3>View all your Test Reports</h3></center>
 			<?php 
 				if($data["error"]){
 					echo '<div class="alert alert-danger">'.$data["error"].'</div>';
@@ -115,7 +115,7 @@
 							<input type="text" name="mobile_no" class="form-control" required>
 						</div>
 						
-						<button type="submit" name="login" class="btn btn-outline-info btn-block">GENERATE</button>
+						<button type="submit" name="login" class="btn btn-outline-info btn-block">View Report</button>
 			</form>
 					</div>
 				</div>
