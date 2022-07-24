@@ -171,7 +171,7 @@
 					<div class="card-body">
                         <p>Phone No. : 9798007907</p>
                         <p>Email : agrawalshubham071@gmail.com</p>
-                        <p>Address : BIT MESRA, RANCHI</p>
+                        <p>Address : Dispensary, BIT MESRA, RANCHI</p>
                         <p>Pincode : 822101</p>
 					</div>
 				</div><hr>
