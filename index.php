@@ -34,7 +34,7 @@
 			</ul>
 		</div>
 	</nav><br>
-	<span><marquee>This is pathology Management System. Pathology opens at 8:00 AM and close at 8:00 PM</marquee></span><br><br>
+	<span><marquee>This is pathology Management System. Pathology opens at 8:00 AM and closes at 8:00 PM</marquee></span><br><br>
 	<div class="row">
 		<div class="col-md-4" id="side_bar">
 			<h5>Pathology Lab</h5>

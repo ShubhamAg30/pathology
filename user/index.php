@@ -48,7 +48,7 @@
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 		<div class="container-fluid">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="../index.php">The Pathology, A Diagnostic CENTER</a>
+				<a class="navbar-brand" href="../index.php">Pathology Management System(PMS)</a>
 			</div>
 			<ul class="nav navbar-nav navbar-right">
 				<!-- <li class="nav-item">
@@ -69,7 +69,7 @@
 			</ul>
 		</div>
 	</nav><br>
-	<span><marquee>This is Pathology Management System. Library opens at 8:00 AM and close at 8:00 PM</marquee></span><br><br>
+	<span><marquee>This is Pathology Management System. Library opens at 8:00 AM and closes at 8:00 PM</marquee></span><br><br>
 	<div class="row">
 		<div class="col-md-4" id="side_bar">
 			<h5>Pathology Lab</h5>

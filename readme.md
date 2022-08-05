@@ -10,41 +10,25 @@
 <!-- # viedo of working features 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DrWOjiVNeiI) -->
 
-# snapshots
+# Snapshots
 welcome Page
 ![welcome Page](./snapshots/welcome%20page.jpg)
 Admin login
-![Login page](./snapshots/admin_login.jpg)
+![Admin login](./snapshots/admin_login.jpg)
 Patient login
-![Login page](./snapshots/user_login.jpg)
+![Patient login](./snapshots/user_login.jpg)
 Dashboard page
-![welcome Page](./snapshots/dashboard.jpg)
+![Dashboard page](./snapshots/dashboard.jpg)
 patient Register
-![welcome Page](./snapshots/patient_register.jpg)
+![patient Register](./snapshots/patient_register.jpg)
 Mangage Patient
-![welcome Page](./snaps/manage_patient.jpg)
+![Mangage Patient](./snapshots/manage_patient.jpg)
 
-View or report
-![welcome Page](snaps/admin_14.png)
-![welcome Page](snaps/admin_15.png)
-![welcome Page](snaps/admin_16.png)
+View or Generate report
+![welcome Page](./snapshots/view_patients.jpg)
+![welcome Page](./snapshots/generate.jpg)
 Click print
-![welcome Page](snaps/admin_17.png)
+![welcome Page](./snapshots/print.jpg)
 
-# userside
-welcome page
-![welcome Page](snaps/user_1.png)
-login form
-![wecome page](snaps/admin_4.png)
-if the user entered wrong password 
-![welcome Page](snaps/1.png)
-if the report is pending staus 
-![welcome Page](snaps/2.png)
-Success Report  status 
-![welcome Page](snaps/user_7.png)
-view report
-![welcome Page](snaps/3.png)
-![welcome Page](snaps/user_10.png)
-print
-![welcome Page](snaps/user_11.png)
+
 
