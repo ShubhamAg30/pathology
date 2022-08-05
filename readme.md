@@ -7,57 +7,44 @@
 * Backend: PHP,
 # DATABASE DESIGN
 ![ER  Diagram](snapshots/D.png)
-# viedo of working features 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DrWOjiVNeiI)
+<!-- # viedo of working features 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/DrWOjiVNeiI) -->
 
 # snapshots
 welcome Page
-![welcome Page](snapshots/admin_1.png)
-Admin button
-![Login page](snapshots/admin_2.png)
-login page
-![login Page](snapshots/admin_3.png)
-login form
-![welcome Page](snapshots/admin_4.png)
+![welcome Page](./snapshots/welcome%20page.jpg)
+Admin login
+![Login page](./snapshots/admin_login.jpg)
+Patient login
+![Login page](./snapshots/user_login.jpg)
 Dashboard page
-![welcome Page](snapshots/admin_5.png)
+![welcome Page](./snapshots/dashboard.jpg)
 patient Register
-![welcome Page](snapshots/admin_6.png)
-Add New Patient form
-![welcome Page](snapshots/admin_7.png)
-patient Added successfully message
-![welcome Page](snapshots/admin_8.png)
+![welcome Page](./snapshots/patient_register.jpg)
 Mangage Patient
-![welcome Page](snapshots/admin_9.png)
-manage patient dashboard
-![welcome Page](snapshots/admin_10.png)
-Add report
-![welcome Page](snapshots/admin_11.png)
-add Report page
-![welcome Page](snapshots/admin_12.png)
-message of successfully added
-![welcome Page](snapshots/admin_13.png)
+![welcome Page](./snaps/manage_patient.jpg)
+
 View or report
-![welcome Page](snapshots/admin_14.png)
-![welcome Page](snapshots/admin_15.png)
-![welcome Page](snapshots/admin_16.png)
+![welcome Page](snaps/admin_14.png)
+![welcome Page](snaps/admin_15.png)
+![welcome Page](snaps/admin_16.png)
 Click print
-![welcome Page](snapshots/admin_17.png)
+![welcome Page](snaps/admin_17.png)
 
 # userside
 welcome page
-![welcome Page](snapshots/user_1.png)
+![welcome Page](snaps/user_1.png)
 login form
-![wecome page](snapshots/admin_4.png)
+![wecome page](snaps/admin_4.png)
 if the user entered wrong password 
-![welcome Page](snapshots/1.png)
+![welcome Page](snaps/1.png)
 if the report is pending staus 
-![welcome Page](snapshots/2.png)
+![welcome Page](snaps/2.png)
 Success Report  status 
-![welcome Page](snapshots/user_7.png)
+![welcome Page](snaps/user_7.png)
 view report
-![welcome Page](snapshots/3.png)
-![welcome Page](snapshots/user_10.png)
+![welcome Page](snaps/3.png)
+![welcome Page](snaps/user_10.png)
 print
-![welcome Page](snapshots/user_11.png)
+![welcome Page](snaps/user_11.png)
 
